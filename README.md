@@ -51,4 +51,4 @@ Almost all of it is private under [@acemarketingservices](https://github.com/ace
 
 ## Work with Ace
 
-**Creators**: [apply at ace.inc](https://ace.inc) · **Builders and operators**: [open roles](https://app.dover.com/jobs/acemodelsai) · [hello@ace.inc](mailto:hello@ace.inc)
+**Creators**: [apply at ace.inc](https://ace.inc) · **Builders and operators**: [open roles](https://app.dover.com/jobs/aceinc) · [hello@ace.inc](mailto:hello@ace.inc)
