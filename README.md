@@ -33,7 +33,7 @@ promise:    every creator sees the team, the plan, the work, and the results
 | **Finance automation** | QuickBooks driven invoicing, payouts, and reporting that stay accurate without manual work. |
 | **Agent infrastructure** | Shared skills, sources of truth, and approval gates so AI coding agents work the same way across every Ace repo. |
 
-Almost all of it is private under [@acemarketingservices](https://github.com/acemarketingservices). The graph below is the public footprint.
+Almost all of it is private under [@acemarketingservices](https://github.com/acemarketingservices), so the public contribution graph shows only a sliver of it.
 
 ## Stack
 
@@ -45,9 +45,14 @@ Almost all of it is private under [@acemarketingservices](https://github.com/ace
 
 ## Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilcargamer&theme=github-dark-blue&hide_border=true" alt="streak">
-</p>
+Nearly everything I ship lands in private Ace repositories, so the public graph undercounts it. Snapshot as of October 2026:
+
+```yaml
+pull requests:  1,400+ opened and 1,200+ merged since April 2026
+contributions:  3,500+ in the last twelve months, about 98% in private repositories
+cadence:        roughly 8 pull requests merged per day
+codebase:       about 25 MB of Python and 12 MB of TypeScript across 15+ repositories
+```
 
 ## Work with Ace
 
