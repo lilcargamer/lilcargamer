@@ -16,9 +16,7 @@
 ```yaml
 company:    Ace, creator marketing and growth agency
 role:       founder, operator, and the person who ships the code
-scale:      creator earnings managed at a multi million dollar scale
-creators:   dozens under active management
-accounts:   hundreds operated across Instagram, TikTok, Snapchat, X, and OnlyFans
+platforms:  Instagram, TikTok, Snapchat, X, and OnlyFans
 team:       in house growth, content, chatting, and account care
 promise:    every creator sees the team, the plan, the work, and the results
 ```
@@ -45,13 +43,11 @@ Almost all of it is private under [@acemarketingservices](https://github.com/ace
 
 ## Activity
 
-Nearly everything I ship lands in private Ace repositories, so the public graph undercounts it. Snapshot as of October 2026:
+Nearly everything I ship lands in private Ace repositories, so the public graph undercounts it. Counted October 27, 2026:
 
 ```yaml
-pull requests:  1,400+ opened and 1,200+ merged since April 2026
-contributions:  3,500+ in the last twelve months, about 98% in private repositories
-cadence:        roughly 8 pull requests merged per day
-codebase:       about 25 MB of Python and 12 MB of TypeScript across 15+ repositories
+pull requests:  2,500+ opened and 2,300+ merged since April 2026
+contributions:  3,600+ in the last twelve months, almost all in private repositories
 ```
 
 ## Work with Ace
